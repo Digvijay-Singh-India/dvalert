@@ -1,0 +1,16 @@
+{
+  "name": "dvalert",
+  "version": "1.0.2",
+  "description": "'DvAlert' is a custom alert box built with JavaScript. It allows developers to create custom alert messages with a variety of options, including custom titles and types (e.g. success, error, warning, info, simple alert,conform box , input box). DvAlert is easy to use and can be easily integrated into any project that requires custom alert",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digvijay-Singh-India/dvalert.git"
+  },
+  "keywords": ["custom alert", "reactjs alert","react custom alert","electron alert","electron custom alert","custom alert box","","success", "error", "warning", "info", "simple alert","confirm box" , "input box"],
+  "author": "Digvijay Singh <digvijay.bauli@gmail.com>",
+  "license": "MIT"
+}

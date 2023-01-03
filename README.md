@@ -21,10 +21,10 @@
 
 ### supporting
 
-- Reactjs
-- veujs
-- Electronjs
-- Nextjs
+- React js
+- vue js
+- Electron js
+- Next js
 <!-- - If using cdn link , can easily use in normal website -->
 
 

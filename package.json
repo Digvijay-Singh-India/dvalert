@@ -1,6 +1,6 @@
 {
   "name": "dvalert",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "'DvAlert' is a custom alert box built with JavaScript. It allows developers to create custom alert messages with a variety of options, including custom titles and types (e.g. success, error, warning, info, simple alert,conform box , input box). DvAlert is easy to use and can be easily integrated into any project that requires custom alert",
   "main": "index.js",
   "scripts": {

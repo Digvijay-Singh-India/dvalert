@@ -38,7 +38,7 @@
 
 ## Installation
 
-Install my-project with npm
+Install dvalert with npm
 
 ```bash
   npm install dvalert
@@ -48,6 +48,9 @@ Install my-project with npm
 ## Usage/Examples
 
 ```javascript
+
+
+// CommonJS modules
 
 const {success,error,warning,info,alert,confirm,input} = require('dvalert');
 or
@@ -172,5 +175,6 @@ We welcome contributions to this project! If you have an idea for a new feature 
 
 ## License
 
-[MIT](https://github.com/Digvijay-Singh-India/DvAlert/blob/master/LICENSE)
+[MIT](https://github.com/Digvijay-Singh-India/dvalert/blob/master/LICENSE)
+
 

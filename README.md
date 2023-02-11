@@ -1,7 +1,7 @@
 
 # DvAlert
 
-"DvAlert" is a custom alert box built with JavaScript. It allows developers to create custom alert messages with a variety of options, including custom titles and types (e.g. success, error, warning, info, simple alert,confirm box , input box). "DvAlert" is easy to use and can be easily integrated into any project that requires custom alert messages.
+"DvAlert" is a custom alert box built with JavaScript. It allows developers to create custom alert messages with a variety of options, including custom titles and types (e.g. success, err, warning, info, simple alert,confirm box , input box). "DvAlert" is easy to use and can be easily integrated into any project that requires custom alert messages.
 
 
 ## Features
@@ -52,13 +52,13 @@ Install dvalert with npm
 
 // CommonJS modules
 
-const {success,error,warning,info,alert,confirm,input} = require('dvalert');
+const {success,err,warning,info,alert,confirm,input} = require('dvalert');
 or
 const dvalert = require('dvalert');
 
     // ES6 module
 
-import {success,error,warning,info,alert,confirm,input} from 'dvalert';
+import {success,err,warning,info,alert,confirm,input} from 'dvalert';
 or
 import dvalert from "dvalert";
 
@@ -67,10 +67,10 @@ import dvalert from "dvalert";
 
 success('I am success message'); // auto hide 2 second
 
-error('I am error message');
+err('I am error message');
 
 // with callback
-error('I am error message with callback',(e)=>{
+err('I am error message with callback',(e)=>{
 
 // when close button clicked return always true
 
